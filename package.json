@@ -17,7 +17,8 @@
   "unpkg": "dist/employee-list.min.js",
   "files": [
     "dist/*",
-    "src/**/*.vue"
+    "src/**/*.vue",
+    "README.md"
   ],
   "sideEffects": false,
   "scripts": {
